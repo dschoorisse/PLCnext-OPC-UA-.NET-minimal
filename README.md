@@ -1,9 +1,8 @@
-Another example on how to connect to the Phoenix Contact AXC F 2152, this time using C# and the UA-.NETStandard library by the OPCFoundation. https://github.com/OPCFoundation/UA-.NETStandard
+Another example on how to connect to the Phoenix Contact AXC F 2152, this time using C# and the UA-.NETStandard library by the [OPCFoundation](https://github.com/OPCFoundation/UA-.NETStandard).
 
 Hopefully this is useful for someone!
 
-Code is based on this example:
-https://github.com/OPCFoundation/UA-.NETStandard/tree/master/SampleApplications/Samples/NetCoreConsoleClient
+Code is based on [this example](https://github.com/OPCFoundation/UA-.NETStandard/tree/master/SampleApplications/Samples/NetCoreConsoleClient).
 Almost no changes are necessary, except the creation of the UserIdentity at line 214, because the controller wants to authenticate the user by username/password. 
 
 How to get this running:
