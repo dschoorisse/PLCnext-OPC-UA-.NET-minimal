@@ -1,3 +1,4 @@
+#PLCnext-OPC-UA-.NET-minimal
 Another example on how to connect to the Phoenix Contact AXC F 2152, this time using C# and the UA-.NETStandard library by the [OPCFoundation](https://github.com/OPCFoundation/UA-.NETStandard).
 
 Hopefully this is useful for someone!
